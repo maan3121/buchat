@@ -27,7 +27,7 @@
                                 </div>
                             </div>
                             <div class="col-12 col-lg-10">
-                                <a href="#">
+                                <a href="{{ route('discussions.show') }}">
                                     <h3>Lorem ipsum dolor sit amet.</h3>
                                 </a>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita possimus sequi in tempore repudiandae modi.</p>
