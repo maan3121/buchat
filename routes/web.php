@@ -44,3 +44,7 @@ Route::get('answers/1', function () {
 Route::get('users/radiman', function () {
     return view('pages.users.show');
 })->name('users.show');
+
+Route::get('users/radiman/edit', function () {
+    return view('pages.users.form');
+})->name('users.edit');
