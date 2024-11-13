@@ -1,0 +1,6 @@
+pada umumnya backend dintegritas dilocal file ini
+-Controller
+-Model?
+-View
+-Routes (web.php)
+-form Request
